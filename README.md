@@ -1,5 +1,5 @@
 # Inky500-S4-Liveries
-## A collection of ACC User submitted Liveries to be used in the Inky 500 Season 4, starting April 2024.
+## A collection of ACC User submitted Liveries to be used in the Inky 500 Season 4.
 
 ######################
 #### INSTRUCTIONS ####
